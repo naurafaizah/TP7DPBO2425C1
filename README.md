@@ -25,3 +25,4 @@ Alur kerja program dimulai dari halaman index.php yang menampilkan halaman utama
 Dalam penggunaan website ini, pengisian data dilakukan secara berurutan agar relasi antar tabel tetap konsisten. Pertama, pengguna harus menambahkan data pada tabel Users terlebih dahulu, karena setiap produk akan dikaitkan dengan pengguna tertentu. Setelah itu, pengguna dapat menambahkan data kategori pada tabel Categories untuk menentukan kelompok produk. Jika data pengguna dan kategori sudah ada, barulah pengguna dapat menambahkan data produk pada tabel Products dengan memilih kategori dan pengguna yang sesuai
 
 # dokumentasi
+ada di folder dokumentasi
